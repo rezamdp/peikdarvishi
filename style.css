@@ -1,0 +1,53 @@
+body {
+
+    font-family: "estedad";
+    direction: rtl;
+}
+html{
+    direction: rtl;
+}
+h1 {
+    font-size: 27px;
+    font-family: "estedad";
+    text-align: center;
+}
+h2,h3,h4,h5,i{
+    font-family: "estedad";
+
+}
+
+h2{
+    font-size: 24px;
+    text-align: center;
+}
+h3{
+    font-size: 16px;
+}
+div {
+    font-family: "estedad";
+}
+p{
+    font-family: "estedad";
+    font-size: 12px;
+}
+li{
+    text-align: right;
+}
+.st-emotion-cache-vbh34l.e1nzilvr3 {
+    display: none;
+  }
+.stDeployButton{
+    display: none;
+}
+#MainMenu {
+    display: none;
+}
+
+.st-emotion-cache-17ccqb5 {
+    position: relative;
+    direction: ltr;
+    margin-right: 10px;
+}
+.st-emotion-cache-6qob1r.eczjsme3 {
+    direction: ltr;
+  }

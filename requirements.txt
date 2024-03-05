@@ -1,0 +1,4 @@
+streamlit
+sqlit3
+pandas
+streamlit_option_menu
